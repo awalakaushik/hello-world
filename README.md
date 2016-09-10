@@ -1,3 +1,1 @@
-# hello-world
-A sample repository
-These are changes and the commits to this readme file in the branch.
+Hello.. This is a sample README file with changes made to the file!
